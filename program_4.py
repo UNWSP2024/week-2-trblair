@@ -11,7 +11,8 @@ def temp_conversion(celsius):
     ######################
     # WRITE YOUR CODE HERE
     ######################    
-
+    fahrenheit=(9/5)*int(celsius)+32
+    
 
     # Return the variable to the calling function
     return fahrenheit
