@@ -10,7 +10,7 @@ def average_age():
     friend5=int(input())
 
     # Sum ages
-    totalage=int(friend1+friend2+friend3+friend4+friend5)
+    totalage=friend1+friend2+friend3+friend4+friend5
     # Average the ages
     finalage=totalage//5
     # Print the results
